@@ -22,7 +22,7 @@
 
 - Complete Slide :
 
-    - Not yet uploaded.
+    - https://github.com/Sharkkcode/ReversePresentation/blob/main/20230521/re20230521_ans.pdf
 
 
 
